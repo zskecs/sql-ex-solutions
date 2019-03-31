@@ -1,0 +1,3 @@
+SELECT AVG(speed)
+FROM PCSELECT AVG(speed)
+FROM PC
